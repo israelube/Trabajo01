@@ -21,7 +21,7 @@ import javax.swing.filechooser.FileNameExtensionFilter;
 public class RopPanPri extends javax.swing.JFrame
 {
     
-    private String strRut="C:\\";   //Ruta
+    private String strRut="D:\\";   //Ruta
 
     /**
      * Creates new form RopPanPri
