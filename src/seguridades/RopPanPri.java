@@ -28,6 +28,7 @@ public class RopPanPri extends javax.swing.JFrame
      */
     public RopPanPri() {
         initComponents();
+        top.selectItem();
     }
 
     /**
